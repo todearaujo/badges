@@ -53,22 +53,45 @@ You can use the same names from the deafult [Obsidian's Callouts](https://help.o
 
 ![](assets/Badges-demo-Obsidian-v1.3.7-20230709144545.png)
 
-##### EXAMPLES FROM THEIS PLUGIN
+##### EXAMPLES AVAIABLE IN PLUGIN
 
 ```markdown
-`[!!emergency: emergency]`
-`[!!prohibit: prohibit]`
-`[!!stop:stop]`
-…
-`[!!reward: reward]`
-`[!!vault: vault]`
+
+###### Yellow and orange shades
+`[!!faq:faq]` `[!!help:help]` `[!!question:question]` `[!!notice:notice]`
+`[!!hat-tip:hat-tip]` `[!!clue:clue]` `[!!branch:branch]` `[!!highlight:highlight]`
+`[!!snippet:snippet]` `[!!claim:claim]` `[!!profile:profile]`
+`[!!attention:attention]` `[!!caution:caution]` `[!!warning:warning]`
+
+###### Purple and pink shades
+`[!!vault:vault]` `[!!honor:honor]` `[!!love:love]` `[!!command:command]`
+`[!!account:account]` `[!!balance:balance]` `[!!home:home]`
+
+###### Blue shades
+`[!!image:image]` `[!!abstract:abstract]` `[!!hint:hint]` `[!!important:important]`
+`[!!summary:summary]` `[!!tip:tip]` `[!!tldr:tldr]` `[!!info:info]` `[!!note:note]`
+`[!!todo:todo]``[!!compute:compute]` `[!!party:party]` `[!!process:process]`
+`[!!refine:refine]`  `[!!meta:meta]` `[!!compass:compass]` `[!!component:component]`
+`[!!dream:dream]` `[!!polish:polish]`
+
+###### Green shades
+`[!!complete:complete]` `[!!attachment:attachment]` `[!!witness:witness]`
+`[!!lightbulb:lightbulb]` `[!!verse:verse]` `[!!charge:charge]`
+`[!!extract:extract]` `[!!hold:hold]` `[!!milestone:milestone]`
+`[!!power:power]` `[!!sprout:sprout]`
+
+###### Red shades
+`[!!bomb:bomb]` `[!!bug:bug]` `[!!danger:danger]` `[!!error:error]`
+`[!!fail:fail]` `[!!failure:failure]` `[!!missing:missing]`
+`[!!magnet:magnet]` `[!!emergency:emergency]` `[!!lock:lock]` `[!!stop:stop]`
+
 ```
 
-##### RESULTS FROM THEIS PLUGIN
+##### RESULTS AVAIABLE IN PLUGIN
 
-![](assets/Badges-demo-Obsidian-v1.3.7-20230709170950.png)
+![image](https://github.com/todearaujo/badges/assets/88564332/f2fe51da-18a3-4f05-9e03-3492c70b1b49)
 
-![](assets/Badges-demo-Obsidian-v1.3.7-20230709170943.png)
+![image](https://github.com/todearaujo/badges/assets/88564332/ce267c35-4806-469b-a789-531c68d1440f)
 
 
 ### GITHUB STYLE
